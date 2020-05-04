@@ -6,7 +6,7 @@
 
 "description": "",
   
-"main": "../../httpbin/apiproxy/resources/app.js",
+"main": "app.js",
 
 "directories": {
 
