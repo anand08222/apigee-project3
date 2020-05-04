@@ -1,4 +1,4 @@
-var app = require('./aap.js');
+var app = require('./app.js');
 var assert = require('chai').assert
 
 describe('App', function(){
